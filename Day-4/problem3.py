@@ -17,3 +17,5 @@ lang=input("Enter Language name: ")
 d.update({name : lang})
 
 print(d)
+
+len(d)
